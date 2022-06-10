@@ -1,5 +1,13 @@
 ![](https://github.com/rusty-crewmates/substrate-tutorials/blob/main/git_banner.png)
+
 ## Hi there 👋
+
+We are a consulting company that provides code development in a flexible way for the crypto – blockchain – NFT ecosystems.
+We specialise in Rust, hence the name, but anything that gravitates aroung the blockchain ecosystem is fine by us.
+We have been training already expecienced developers and then finding them missions or code bounties to work on. We work on a community based process.
+ 
+For example, in order to address the lack of substrate developers, we started our series of
+[open source tutorials](https://github.com/rusty-crewmates/substrate-tutorials).
 
 <!--
 
