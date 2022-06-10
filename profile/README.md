@@ -1,4 +1,4 @@
-![](https://github.com/rusty-crewmates/substrate-tutorials/blob/main/git_banner.png)
+<!-- ![](https://github.com/rusty-crewmates/substrate-tutorials/blob/main/git_banner.png) -->
 
 ## Hi there 👋
 
