@@ -1,2 +1,1 @@
-# .github
-banner for public organisation profile
+![](https://github.com/rusty-crewmates/substrate-tutorials/blob/main/git_banner.png)
